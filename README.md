@@ -72,6 +72,5 @@ Proje ile ilgili detaylı açıklamaları içeren PDF dosyası:
 
 ---
 
-```
 
 
