@@ -2,7 +2,7 @@
 
 
 ```markdown
-# Bingo Game (Tombala Oyunu)
+### Bingo Game (Tombala Oyunu)
 
 Bu proje, Java programlama dili kullanılarak geliştirilmiş bir **Tombala (Bingo) Oyunu** uygulamasıdır. Oyun, hem arayüz (GUI) hem de arka plan (oyun mantığı) ile birlikte veri yapıları temelli bir yaklaşımla tasarlanmıştır. Proje, çoklu bağlı liste (multi linked list) yapısını ve nesne tabanlı programlamayı örneklemektedir.
 
