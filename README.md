@@ -8,7 +8,7 @@ Bu proje, Java programlama dili kullanılarak geliştirilmiş bir **Tombala (Bin
 
 ## 📁 Proje Yapısı
 
-```
+```plaintext
 Bingo_Game/
 └── Bingo_Game/
     ├── AliYilmaz_2121221031_DataStructureProject1.pdf
@@ -24,6 +24,7 @@ Bingo_Game/
             ├── out/ (derlenmiş sınıf dosyaları)
             └── .idea/ (IDE yapılandırma dosyaları)
 ```
+
 
 ## 🚀 Özellikler
 
