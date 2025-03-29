@@ -74,4 +74,4 @@ Proje ile ilgili detaylı açıklamaları içeren PDF dosyası:
 
 ```
 
-İstersen bu dosyayı `README.md` olarak direkt proje dizinine ekleyebilirim. Eklememi ister misin?
+
